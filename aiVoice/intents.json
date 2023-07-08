@@ -1,0 +1,27 @@
+{
+    "changeVolume":[
+        "change volume",
+        "change volume music",
+        "increase volume",
+        "decrease volume",
+        "set volume",
+        "turn volume up",
+        "turn volume down"
+    ],
+    "openApp":[
+        "open app",
+        "open an app",
+        "open",
+        "start",
+        "run",
+        "launch",
+        "execute",
+        "begin",
+        "open app",
+        "start app",
+        "run app",
+        "launch app",
+        "execute app",
+        "begin app"
+    ]
+}

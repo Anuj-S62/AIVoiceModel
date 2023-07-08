@@ -1,0 +1,26 @@
+
+X_test = []
+y_test = []
+
+X_test.append('increase the volume to 50%')
+y_test.append('changeVolume')
+X_test.append('change the volume to 50%')
+y_test.append('changeVolume')
+X_test.append('increase the volume')
+y_test.append('changeVolume')
+X_test.append('decrease the volume')
+y_test.append('changeVolume')
+X_test.append('decrease the volume to 50%')
+y_test.append('changeVolume')
+X_test.append('decrease the volume to 50%')
+y_test.append('changeVolume')
+X_test.append('decrease the volume to 50%')
+y_test.append('changeVolume')
+X_test.append('set the Volume to 50%')
+y_test.append('changeVolume')
+X_test.append('open music player')
+y_test.append('openApp')
+X_test.append('run music')
+y_test.append('openApp')
+X_test.append('open settings')
+y_test.append('openApp')
